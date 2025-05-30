@@ -1,0 +1,45 @@
+*{
+  box-sizing: border-box;
+  padding: 0px;
+  margin: 0px;
+}
+
+body{
+font-family: "Open Sans", sans-serif;
+scroll-behavior: smooth;
+}
+
+.nav-link{
+  display: flex;
+  align-items: center;
+  gap: 5px;
+}
+
+.nav-link.active{
+  color: darkred !important;
+  font-weight: 10px;
+}
+
+/* main section{
+  min-height: 100vh;
+  /* padding: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center; */
+
+
+main section {
+  padding-top: 56px;
+}
+
+footer {
+  text-align: center;
+  padding: 10px;
+  background-color: rgb(175, 162, 162);
+}
+
+/* button{
+ padding: "25px";
+} */
+
+
