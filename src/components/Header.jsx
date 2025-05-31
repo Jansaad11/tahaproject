@@ -18,7 +18,7 @@ const Header = () => {
 
       <Navbar bg="dark" data-bs-theme="dark" expand="1g" className='fixed-top'>
         <Container>
-          <Navbar.Brand href="#Home"> <FiWatch /> WatchVerve.pk</Navbar.Brand>
+          <Navbar.Brand href="#Home"> <FiWatch /> Watchwave</Navbar.Brand>
           <Navbar.Toggle aria-controls="basic-navbar-nav" />
           <Navbar.Collapse id="basic-navbar-nav">
             <Nav className="me-auto">
